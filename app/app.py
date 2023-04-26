@@ -23,7 +23,7 @@ server = app.server
 environment = os.environ.get("ENVIRONMENT", default="dev")
 
 df = pd.DataFrame({
-    "Seeds": ["Hibiscus"],
+    "Seeds": ["Magnolia"],
     "Amount": [1],
 })
 
